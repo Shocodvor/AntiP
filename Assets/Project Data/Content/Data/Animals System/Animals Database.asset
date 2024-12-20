@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57349a3aeff70ac4bb5f8782ea8c14e0, type: 3}
+  m_Name: Animals Database
+  m_EditorClassIdentifier: 
+  animals:
+  - animalType: 0
+    prefab: {fileID: 3723217540529644781, guid: f189ed0d00cbd494e9c7ddb2adf40746,
+      type: 3}
+    carryingHeight: 1.15
+    rewardType: 0
+    rewardAmount: 20
+  - animalType: 1
+    prefab: {fileID: 3723217540529644781, guid: f189ed0d00cbd494e9c7ddb2adf40746,
+      type: 3}
+    carryingHeight: 1.15
+    rewardType: 0
+    rewardAmount: 20
+  - animalType: 2
+    prefab: {fileID: 3723217540529644781, guid: f189ed0d00cbd494e9c7ddb2adf40746,
+      type: 3}
+    carryingHeight: 1.15
+    rewardType: 0
+    rewardAmount: 20
+  - animalType: 3
+    prefab: {fileID: 3723217540529644781, guid: f189ed0d00cbd494e9c7ddb2adf40746,
+      type: 3}
+    carryingHeight: 1.15
+    rewardType: 0
+    rewardAmount: 20
+  - animalType: 4
+    prefab: {fileID: 3723217540529644781, guid: f189ed0d00cbd494e9c7ddb2adf40746,
+      type: 3}
+    carryingHeight: 1.15
+    rewardType: 0
+    rewardAmount: 20
+  visitorPrefabs:
+  - {fileID: 8214505089139217242, guid: a37846151c2b16c4194e97c5b14e2fcb, type: 3}
